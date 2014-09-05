@@ -51,8 +51,13 @@ h6 img {
     margin-left: 525px;
      }
      
-     h3 {
+h3 {
          font-size: 23px;
          border-top: 4px solid blue;
+     }
+     
+     
+     h7 p {
+         margin-left: 700px;
      }
      
